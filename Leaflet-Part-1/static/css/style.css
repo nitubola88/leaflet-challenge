@@ -1,0 +1,10 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+
+#map {
+  width: 100%;     /* Ensure the map takes up the full width of the page */
+  height: 100vh;   /* Set the height to 100% of the viewport height */
+}
